@@ -1,2 +1,9 @@
 # internet-apartheid
+
 1990-2021
+
+# internet
+https://en.wikipedia.org/wiki/Internet
+
+# apartheid
+https://en.wikipedia.org/wiki/Apartheid
